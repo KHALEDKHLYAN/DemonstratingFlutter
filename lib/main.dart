@@ -73,6 +73,9 @@ class _HomeWidgetState extends State<HomeWidget> {
                 backgroundColor: Colors.amberAccent,
               ),
             ),
+            Expanded(
+              child: Center(),
+            )
           ],
         ),
       ),
